@@ -53,3 +53,9 @@ vim ~/.zshrc
 
 下载后拖到mac字体库  
 iterm2 中设置字体
+
+# 切换shell
+```
+chsh -s /bin/zsh
+chsh -s /bin/bash
+```
