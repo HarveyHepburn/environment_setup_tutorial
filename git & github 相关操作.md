@@ -38,5 +38,12 @@ git branch new_branch
 # 切换到新的branch
 git checkout new_branch
 ```
+# 常用mac简化
+```
+alias gs="git status"
+alias gc="git commit -m "
+alias ga="git add -A"
+alias gp="git push"
+```
 
 
